@@ -12,3 +12,4 @@ gameMode will be the value of 2 for player vs. player, or 1 for player vs. the c
 depth - the max depth to explore the minimax tree
 type - the name of the agent that will play as AI_agent if gameMode = 2.
 The types are: "BestRandom", "MinimaxAgent", "AlphaBetaAgent", "ExpectimaxAgent" 
+<img width="527" alt="connect-4" src="https://user-images.githubusercontent.com/112930532/208289006-5ac1c2e6-bed5-4380-9289-63b46a630012.png">
