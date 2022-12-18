@@ -10,6 +10,7 @@ Connect Four is a two player connection game on a 6x7 board. The goal of the gam
 To play the game, run the connect4.py file.
 
 Change this variables as you wish:
+
 graphicMode - True for graphic mode, False for textual mode
 gameMode will be the value of 2 for player vs. player, or 1 for player vs. the chosen AI agent
 depth - the max depth to explore the minimax tree
