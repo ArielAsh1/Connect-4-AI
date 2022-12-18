@@ -2,7 +2,8 @@
 An Artificial Intelligence version of the classic Connect-4 classic game, using Python.
 
 In my code I implemneted the following algorithms: MiniMax, AlphaBeta Pruning and the ExpectiMax.
-<img width="300" alt="connect-4" src="https://user-images.githubusercontent.com/112930532/208289006-5ac1c2e6-bed5-4380-9289-63b46a630012.png">
+
+<img width="280" alt="connect-4" src="https://user-images.githubusercontent.com/112930532/208289090-c3149e99-2ef7-4cf2-be48-bdaddfc69873.png">
 
 Connect Four is a two player connection game on a 6x7 board. The goal of the game is to strategically insert a disk in one of the seven columns giving you a higher chance to connect 4 disks by row, column, or diagonal. Players alternate turns.
 
