@@ -1,5 +1,5 @@
 # Connect-4 AI
-An Artificial Intelligence version of the classic Connect-4 classic game, using Python.
+An Artificial Intelligence version of the classic Connect-4 game, using Python.
 
 In my code I implemneted the following algorithms: MiniMax, AlphaBeta Pruning and the ExpectiMax.
 
