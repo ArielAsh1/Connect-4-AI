@@ -1,7 +1,8 @@
 # Connect-4 AI
-An Artificial Intelligence version of the classic Connect-4 game, using Python.
+The classic Connect-4 game with AI opponents!
 
-In my code I implemneted the following algorithms: MiniMax, AlphaBeta Pruning and the ExpectiMax.
+In my code I implemneted the following algorithms: MiniMax, AlphaBeta Pruning and the ExpectiMax - to make decisions about the next move.
+It builds decision trees and lets the user choose the depth of the tree, which affects the strength level of the AI opponent.
 
 <img width="280" alt="connect-4" src="https://user-images.githubusercontent.com/112930532/208289090-c3149e99-2ef7-4cf2-be48-bdaddfc69873.png">
 
